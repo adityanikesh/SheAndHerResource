@@ -4,8 +4,6 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
-import org.springframework.security.core.Authentication;
-import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -35,8 +33,6 @@ public class UserController {
 	@GetMapping("/getAllRoles")
 	@PreAuthorize("permitAll()")
 	public List<Role> getAllRoles() {
-		Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-		System.out.println(authentication.getName());
 		return this.roleService.findAllRoles();
 	}
 	
@@ -57,6 +53,12 @@ public class UserController {
 			user.setCredentialsNonExpired(true);
 			this.userService.createUser(user);
 		}
+	}
+	
+	@PostMapping("/method1")
+	@PreAuthorize("hasAuthority('READ')")
+	public void method1() {
+		System.out.println("Inside post method");
 	}
 	
 	@DeleteMapping("/deleteUser")

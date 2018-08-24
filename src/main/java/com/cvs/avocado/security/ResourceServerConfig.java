@@ -41,7 +41,9 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 	public CookieCsrfTokenRepository csrfTokenRepository() {
 		CookieCsrfTokenRepository csrfTokenRepository = new CookieCsrfTokenRepository();
 		csrfTokenRepository.setCookieHttpOnly(false);
-		csrfTokenRepository.setCookieName("avocado-XSRF-token");
+		csrfTokenRepository.setCookieName("Avocado-XSRF-Token");
+		csrfTokenRepository.setHeaderName("Avocado-XSRF-Token");
+		csrfTokenRepository.setCookiePath("/");
 		return csrfTokenRepository;
 	}
     
@@ -61,7 +63,8 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 		.anonymous()
 		.and()
 		.requestMatchers()
-		.antMatchers("/api/**").and()
+		.antMatchers("/api/**")
+		.and()
         .authorizeRequests()
         .antMatchers(HttpMethod.GET, "/api/user/getAllRoles").permitAll()
         .anyRequest().authenticated();
