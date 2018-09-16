@@ -36,8 +36,8 @@ public class UserController {
 		return this.roleService.findAllRoles();
 	}
 	
-	@PreAuthorize("hasAuthority('READ')")
 	@GetMapping("/getAllUsers")
+	@PreAuthorize("hasAuthority('READ')")
 	public List<User> getAllUsers() {
 		return this.userService.findAllUsers();
 	}
