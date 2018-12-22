@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info">
+
+	<Properties>
+		<Property name="LOG_PATTERN">[%-5level] %d{yyyy-MM-dd HH:mm:ss} [%t] %c{1} - %msg%n</Property>
+	</Properties>
+
+	<Appenders>
+		<RollingFile name="errorLog" fileName="logs/orchestrator.error.log"
+			filePattern="logs/orchestrator.error.log-%d{yyyy-MM-dd HH:mm}">
+			<LevelRangeFilter minLevel="ERROR" maxLevel="ERROR"
+				onMatch="ACCEPT" onMismatch="DENY" />
+			<PatternLayout pattern="${LOG_PATTERN}"/>
+			<Policies>
+				<SizeBasedTriggeringPolicy size="19500KB" />
+			</Policies>
+			<DefaultRolloverStrategy max="10" />
+		</RollingFile>
+
+		<RollingFile name="infoLog" fileName="logs/orchestrator.info.log"
+			filePattern="logs/orchestrator.info.log-%d{yyyy-MM-dd HH:mm}">
+			<LevelRangeFilter minLevel="INFO" maxLevel="INFO"
+				onMatch="ACCEPT" onMismatch="DENY" />
+			<PatternLayout pattern="${LOG_PATTERN}"/>
+			<Policies>
+				<SizeBasedTriggeringPolicy size="19500KB" />
+			</Policies>
+			<DefaultRolloverStrategy max="10" />
+		</RollingFile>
+
+		<Console name="console" target="SYSTEM_OUT">
+			<PatternLayout pattern="${LOG_PATTERN}"/>
+		</Console>
+	</Appenders>
+
+	<Loggers>
+		<Logger name="com.cvs.avocado" additivity="false">
+			<appender-ref ref="errorLog" />
+			<appender-ref ref="infoLog" />
+		</Logger>
+		<Root level="info" additivity="false">
+			<appender-ref ref="console" />
+		</Root>
+	</Loggers>
+</Configuration>

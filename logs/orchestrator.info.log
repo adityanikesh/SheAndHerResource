@@ -1,0 +1,276 @@
+[INFO ] 2018-10-16 21:01:14.424 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-16 21:01:14.432 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-16 21:01:23.771 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 9.676 seconds (JVM running for 10.759)
+[INFO ] 2018-10-16 21:01:40.267 [https-jsse-nio-0.0.0.0-8443-exec-4] ApplicationController - Inside register service
+[INFO ] 2018-10-16 21:02:43 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-16 21:02:43 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-16 21:02:46 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.845 seconds (JVM running for 93.29)
+[INFO ] 2018-10-16 21:03:03 [https-jsse-nio-0.0.0.0-8443-exec-4] ApplicationController - Inside register service
+[INFO ] 2018-10-17 11:17:35 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 11:17:35 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 11:17:37 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.915 seconds (JVM running for 2178.38)
+[INFO ] 2018-10-17 11:19:35 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 11:19:35 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 11:19:38 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.825 seconds (JVM running for 2298.6)
+[INFO ] 2018-10-17 11:19:44 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 11:19:44 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 11:19:46 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.696 seconds (JVM running for 2307.444)
+[INFO ] 2018-10-17 11:19:49 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 11:19:49 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 11:19:52 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.573 seconds (JVM running for 2312.533)
+[INFO ] 2018-10-17 11:20:13 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 11:20:13 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 11:20:15 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.607 seconds (JVM running for 2336.141)
+[INFO ] 2018-10-17 11:20:25 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 11:20:25 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 11:20:28 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.795 seconds (JVM running for 2348.706)
+[INFO ] 2018-10-17 11:21:10 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 11:21:10 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 11:21:13 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.787 seconds (JVM running for 2393.47)
+[INFO ] 2018-10-17 12:12:23 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 12:12:23 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 12:12:26 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.869 seconds (JVM running for 5466.678)
+[INFO ] 2018-10-17 12:16:05 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 12:16:05 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 12:16:08 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.917 seconds (JVM running for 5689.124)
+[INFO ] 2018-10-17 12:17:33 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 12:17:33 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 12:17:36 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.744 seconds (JVM running for 5777.075)
+[INFO ] 2018-10-17 12:29:57 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 12:29:57 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 12:29:59 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.557 seconds (JVM running for 6519.976)
+[INFO ] 2018-10-17 12:33:07 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 12:33:07 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 12:33:09 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.565 seconds (JVM running for 6710.355)
+[INFO ] 2018-10-17 12:33:14 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 12:33:14 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 12:33:16 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.37 seconds (JVM running for 6716.981)
+[INFO ] 2018-10-17 12:35:40 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 12:35:40 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 12:35:42 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.79 seconds (JVM running for 6863.381)
+[INFO ] 2018-10-17 12:38:51 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 12:38:51 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 12:38:53 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.522 seconds (JVM running for 7054.3)
+[INFO ] 2018-10-17 12:50:28 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 14750 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-10-17 12:50:28 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-10-17 12:50:31 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.552 seconds (JVM running for 7751.898)
+[INFO ] 2018-11-11 22:47:53 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 29762 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-11 22:47:53 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-11 22:48:04 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 12.818 seconds (JVM running for 16.552)
+[INFO ] 2018-11-11 22:48:21 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 29834 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-11 22:48:21 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-11 22:48:33 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 11.765 seconds (JVM running for 13.429)
+[INFO ] 2018-11-12 00:40:28 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1179 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-12 00:40:28 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-12 00:40:39 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 11.69 seconds (JVM running for 13.411)
+[INFO ] 2018-11-12 00:45:32 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1604 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-12 00:45:32 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-12 00:45:43 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 11.832 seconds (JVM running for 13.05)
+[INFO ] 2018-11-12 00:49:42 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 2008 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-12 00:49:42 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-12 00:49:53 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 11.119 seconds (JVM running for 12.134)
+[INFO ] 2018-11-12 00:52:22 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 2409 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-12 00:52:22 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-12 00:52:32 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 11.239 seconds (JVM running for 12.314)
+[INFO ] 2018-11-12 00:59:31 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 3005 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-12 00:59:31 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-12 00:59:42 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 11.383 seconds (JVM running for 12.493)
+[INFO ] 2018-11-12 01:04:07 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 3300 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-12 01:04:07 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-12 01:04:19 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 11.905 seconds (JVM running for 13.09)
+[INFO ] 2018-11-12 01:22:06 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 3972 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-12 01:22:06 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-12 01:22:17 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 11.674 seconds (JVM running for 12.793)
+[INFO ] 2018-11-12 01:24:06 [https-jsse-nio-0.0.0.0-8443-exec-4] ApplicationController - Registration result of the following application: Application [appId=1, appName=null, aliasAppName=Mysql, appPath=null, md5Checksum=null, sha2Checksum=null, cid=1, did=1, adplAppId=1, compliance=null, isMalware=false, appImageId=0]. Result: Application is registered successfully.
+[INFO ] 2018-11-12 01:29:12 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 3972 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-12 01:29:12 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-12 01:29:16 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 4.313 seconds (JVM running for 431.915)
+[INFO ] 2018-11-15 21:06:45 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 19674 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 21:06:45 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 21:07:09 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 24.866 seconds (JVM running for 28.329)
+[INFO ] 2018-11-15 21:12:14 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 19674 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 21:12:14 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 21:12:17 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.14 seconds (JVM running for 336.862)
+[INFO ] 2018-11-15 22:41:11 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 22:41:11 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 22:41:19 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 8.891 seconds (JVM running for 9.819)
+[INFO ] 2018-11-15 22:41:55 [https-jsse-nio-0.0.0.0-8443-exec-4] ApplicationController - Registration result of the following application: Application [appId=1, appName=null, aliasAppName=Mysql, appPath=null, md5Checksum=null, sha2Checksum=null, cid=1, did=1, adplAppId=1, compliance=null, isMalware=false, appImageId=0]. Result: Application is registered successfully.
+[INFO ] 2018-11-15 23:22:22 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:22:22 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 23:22:25 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.349 seconds (JVM running for 2475.225)
+[INFO ] 2018-11-15 23:40:10 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:40:10 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 23:40:13 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.886 seconds (JVM running for 3543.047)
+[INFO ] 2018-11-15 23:44:05 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:44:05 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 23:44:08 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.831 seconds (JVM running for 3778.231)
+[INFO ] 2018-11-15 23:44:13 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:44:13 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 23:44:16 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.046 seconds (JVM running for 3786.252)
+[INFO ] 2018-11-15 23:44:30 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:44:30 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 23:44:33 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.607 seconds (JVM running for 3803.101)
+[INFO ] 2018-11-15 23:44:53 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:44:53 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 23:44:55 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.426 seconds (JVM running for 3825.714)
+[INFO ] 2018-11-15 23:47:05 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:47:05 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 23:47:08 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.604 seconds (JVM running for 3958.402)
+[INFO ] 2018-11-15 23:47:43 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:47:43 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 23:47:46 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.87 seconds (JVM running for 3996.609)
+[INFO ] 2018-11-15 23:48:00 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:48:00 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 23:48:03 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.779 seconds (JVM running for 4013.257)
+[INFO ] 2018-11-15 23:48:30 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:48:30 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-15 23:48:33 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.591 seconds (JVM running for 4042.916)
+[INFO ] 2018-11-15 23:48:43 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 22895 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-15 23:48:43 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 14:39:28 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 14:39:28 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 14:39:40 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 13.028 seconds (JVM running for 14.344)
+[INFO ] 2018-11-17 14:42:30 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 14:42:30 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 14:42:32 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.804 seconds (JVM running for 186.489)
+[INFO ] 2018-11-17 15:13:07 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:13:07 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:13:10 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.996 seconds (JVM running for 2024.519)
+[INFO ] 2018-11-17 15:13:41 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:13:41 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:13:43 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.533 seconds (JVM running for 2057.358)
+[INFO ] 2018-11-17 15:14:21 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:14:21 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:14:24 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.65 seconds (JVM running for 2097.907)
+[INFO ] 2018-11-17 15:15:40 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:15:40 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:15:43 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.645 seconds (JVM running for 2176.755)
+[INFO ] 2018-11-17 15:17:33 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:17:33 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:17:36 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.044 seconds (JVM running for 2290.324)
+[INFO ] 2018-11-17 15:20:50 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:20:50 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:20:53 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.092 seconds (JVM running for 2487.325)
+[INFO ] 2018-11-17 15:21:45 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:21:45 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:21:48 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.782 seconds (JVM running for 2542.085)
+[INFO ] 2018-11-17 15:28:59 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:28:59 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:29:01 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.448 seconds (JVM running for 2975.335)
+[INFO ] 2018-11-17 15:33:37 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:33:37 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:33:39 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.563 seconds (JVM running for 3253.276)
+[INFO ] 2018-11-17 15:37:23 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:37:23 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:37:25 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.388 seconds (JVM running for 3479.203)
+[INFO ] 2018-11-17 15:37:44 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:37:44 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:37:46 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.415 seconds (JVM running for 3500.038)
+[INFO ] 2018-11-17 15:38:30 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:38:30 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:38:32 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.255 seconds (JVM running for 3546.365)
+[INFO ] 2018-11-17 15:49:59 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 6558 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-17 15:49:59 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-17 15:50:01 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.433 seconds (JVM running for 4235.004)
+[INFO ] 2018-11-23 16:11:39 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 30733 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:11:39 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:11:54 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 15.34 seconds (JVM running for 19.955)
+[INFO ] 2018-11-23 16:12:50 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 30733 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:12:50 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:12:53 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.168 seconds (JVM running for 79.61)
+[INFO ] 2018-11-23 16:13:54 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 30733 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:13:54 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:13:57 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.171 seconds (JVM running for 143.783)
+[INFO ] 2018-11-23 16:25:01 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 31680 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:25:01 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:25:13 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 12.169 seconds (JVM running for 13.684)
+[INFO ] 2018-11-23 16:26:33 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 31880 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:26:33 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:26:45 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 12.101 seconds (JVM running for 13.345)
+[INFO ] 2018-11-23 16:28:02 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 31880 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:28:02 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:28:14 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 31880 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:28:14 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:28:18 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 4.092 seconds (JVM running for 107.236)
+[INFO ] 2018-11-23 16:29:14 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 31880 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:29:14 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:29:18 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 4.344 seconds (JVM running for 166.848)
+[INFO ] 2018-11-23 16:32:38 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 31880 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:32:38 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:32:43 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 4.554 seconds (JVM running for 371.341)
+[INFO ] 2018-11-23 16:38:40 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 31880 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:38:40 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:38:44 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 4.184 seconds (JVM running for 732.845)
+[INFO ] 2018-11-23 16:44:58 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 31880 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 16:44:58 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 16:50:05 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 307.757 seconds (JVM running for 1414.242)
+[INFO ] 2018-11-23 17:06:50 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 31880 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 17:06:50 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 17:11:13 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1644 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 17:11:13 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 17:12:42 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 17:12:42 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 17:12:51 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 8.909 seconds (JVM running for 9.976)
+[INFO ] 2018-11-23 17:58:17 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 17:58:17 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 17:58:20 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.349 seconds (JVM running for 2739.324)
+[INFO ] 2018-11-23 17:58:51 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 17:58:51 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 17:58:54 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.059 seconds (JVM running for 2773.328)
+[INFO ] 2018-11-23 17:59:55 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 17:59:55 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 17:59:58 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.807 seconds (JVM running for 2837.088)
+[INFO ] 2018-11-23 18:02:03 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:02:03 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 18:02:06 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.132 seconds (JVM running for 2964.644)
+[INFO ] 2018-11-23 18:51:28 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:51:28 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 18:51:31 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 3.077 seconds (JVM running for 5930.18)
+[INFO ] 2018-11-23 18:51:36 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:51:36 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 18:51:39 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.876 seconds (JVM running for 5937.761)
+[INFO ] 2018-11-23 18:51:49 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:51:49 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 18:51:52 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.609 seconds (JVM running for 5950.588)
+[INFO ] 2018-11-23 18:52:59 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:52:59 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 18:53:01 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.571 seconds (JVM running for 6020.451)
+[INFO ] 2018-11-23 18:53:12 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:53:12 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 18:53:15 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.737 seconds (JVM running for 6034.04)
+[INFO ] 2018-11-23 18:53:19 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:53:19 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 18:53:22 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.749 seconds (JVM running for 6040.544)
+[INFO ] 2018-11-23 18:54:33 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:54:33 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 18:54:35 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.576 seconds (JVM running for 6114.327)
+[INFO ] 2018-11-23 18:54:47 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:54:47 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 18:58:07 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:58:07 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 18:59:09 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 18:59:09 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 19:13:21 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 19:13:21 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 19:13:24 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.918 seconds (JVM running for 7242.998)
+[INFO ] 2018-11-23 19:13:27 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 19:13:27 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 19:13:30 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.454 seconds (JVM running for 7248.652)
+[INFO ] 2018-11-23 19:16:35 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 19:16:35 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 19:16:38 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.596 seconds (JVM running for 7436.583)
+[INFO ] 2018-11-23 19:20:49 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 19:20:49 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 19:20:52 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.468 seconds (JVM running for 7690.626)
+[INFO ] 2018-11-23 19:21:01 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 19:21:01 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 19:21:04 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.6 seconds (JVM running for 7702.634)
+[INFO ] 2018-11-23 19:21:13 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 19:21:13 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 19:21:16 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.747 seconds (JVM running for 7714.696)
+[INFO ] 2018-11-23 19:24:49 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-23 19:24:49 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-23 19:24:52 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.46 seconds (JVM running for 7930.77)
+[INFO ] 2018-11-25 20:56:22 [restartedMain] SheAndHerResourceApplication - Starting SheAndHerResourceApplication on aditya with PID 1772 (/home/aditya/Avocado/SheAndHerResource/target/classes started by aditya in /home/aditya/Avocado/SheAndHerResource)
+[INFO ] 2018-11-25 20:56:22 [restartedMain] SheAndHerResourceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-11-25 20:56:24 [restartedMain] SheAndHerResourceApplication - Started SheAndHerResourceApplication in 2.594 seconds (JVM running for 15600.091)

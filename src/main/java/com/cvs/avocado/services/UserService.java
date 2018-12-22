@@ -9,12 +9,15 @@ import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
+import org.springframework.security.oauth2.common.OAuth2AccessToken;
+import org.springframework.security.oauth2.provider.token.TokenStore;
 import org.springframework.stereotype.Service;
 
 import com.cvs.avocado.models.Role;
 import com.cvs.avocado.models.User;
 import com.cvs.avocado.repositories.RoleRepository;
 import com.cvs.avocado.repositories.UserRepository;
+import com.cvs.avocado.security.AuthenticationFacade;
 
 @Service
 public class UserService implements UserDetailsService {
@@ -24,6 +27,12 @@ public class UserService implements UserDetailsService {
 	
 	@Autowired
 	RoleRepository roleRepository;
+	
+	@Autowired
+	TokenStore tokenStore;
+	
+	@Autowired
+	AuthenticationFacade authenticationFacade;
 	
 	public List<User> findAllUsers() {
 		return this.userRepository.findAll();
@@ -57,6 +66,12 @@ public class UserService implements UserDetailsService {
 			}
 		}
 		return listAuthority;
+	}
+	
+	public void logout() {
+		OAuth2AccessToken token = this.tokenStore.getAccessToken(authenticationFacade.getOAuth2Authentication());
+		this.tokenStore.removeAccessToken(token);
+		this.tokenStore.removeRefreshToken(token.getRefreshToken());
 	}
 
 }

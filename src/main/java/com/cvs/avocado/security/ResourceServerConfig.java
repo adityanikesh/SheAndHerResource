@@ -22,7 +22,7 @@ import org.springframework.security.web.csrf.CookieCsrfTokenRepository;
 @EnableGlobalMethodSecurity(prePostEnabled=true)
 public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 	
-	private static final String RESOURCE_ID = "resource-server-rest-api";
+	private static final String RESOURCE_ID = "appmanager";
     
     @Autowired
     DataSource dataSource;
@@ -58,15 +58,16 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 	public void configure(HttpSecurity http) throws Exception {
 		
 		http
-		.csrf().csrfTokenRepository(csrfTokenRepository())
-		.and()
+		.csrf().disable()//csrfTokenRepository(csrfTokenRepository())
+//		.and()
 		.anonymous()
 		.and()
 		.requestMatchers()
-		.antMatchers("/api/**")
+		.antMatchers("/api/**", "/adpl/**")
 		.and()
         .authorizeRequests()
         .antMatchers(HttpMethod.GET, "/api/user/getAllRoles").permitAll()
+        .antMatchers(HttpMethod.GET, "/adpl/**").permitAll()
         .anyRequest().authenticated();
 	}
 }

@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.cvs.avocado.models.Role;
 import com.cvs.avocado.models.User;
+import com.cvs.avocado.security.AuthenticationFacade;
 import com.cvs.avocado.services.RoleService;
 import com.cvs.avocado.services.UserService;
 
@@ -26,6 +27,9 @@ public class UserController {
 	
 	@Autowired
 	RoleService roleService;
+	
+	@Autowired
+	AuthenticationFacade authenticationFacade;
 	
 	@Autowired
 	PasswordEncoder passwordEncoder;
@@ -55,14 +59,13 @@ public class UserController {
 		}
 	}
 	
-	@PostMapping("/method1")
-	@PreAuthorize("hasAuthority('READ')")
-	public void method1() {
-		System.out.println("Inside post method");
-	}
-	
 	@DeleteMapping("/deleteUser")
 	public void deleteUser() {
 		
+	}
+	
+	@PostMapping("/logout")
+	public void logout() {
+		this.userService.logout();
 	}
 }
